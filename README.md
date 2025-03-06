@@ -8,5 +8,5 @@ High school: Angeles City National Trade School.
 Senior high school: Angeles City National Trade School.
 College: City College of Angeles.
 ## My project:
-- [Midterm lab task 1:](Midterm Task)
+- [Midterm lab task 1:][Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
 - Mid term lab task 2
