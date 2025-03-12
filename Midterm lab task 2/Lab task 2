@@ -1,14 +1,14 @@
 ### Instruction
+***Sample raw data before()
 ## 1. Download and Open Data: Download the dataset (Uncleaned_DS_jobs.csv) and open it in Excel.
-
 Go to Data -> New Query -> Open File -> Choose text/csv.
 Load the file into Excel.
-## 2. Edit Data Using Power Query:
 
+## 2. Edit Data Using Power Query:
 Open Power Query Editor.
 Duplicate the Raw Data.
+ 
 ##3. Data Cleaning Tasks:
-
 Clean Salary Estimate:
 
 Go to Transform -> Extract -> Text Before Delimiter.
@@ -70,6 +70,7 @@ Go to Home -> Advanced Editor.
 Copy the steps and save them in your portfolio.
 These steps clean, transform, and organize your dataset efficiently in Power Query.
 
+***Sample raw data after ()
 ### Part 2: Reshape and Group the Tables - Simplified Instructions:
 
 ## 1. Duplicate the Raw Data:
@@ -94,6 +95,8 @@ Select the Role Type column.
 Click Group By under the Transform Menu.
 Choose Average for Min Sal and Max Sal.
 
+***Sample data ()
+
 ## 7. Create a Reference of Raw Data:
 Right-click Unclean DS Jobs and choose Reference in the Queries pane.
 
@@ -109,6 +112,8 @@ Change Min Sal and Max Sal to Currency and multiply them by 1000.
 ## 11. Group Data by Company Size:
 Select the Size column.
 Click Group By under the Transform Menu to get the Min Sal and Max Sal averages.
+
+***Sample data ()
 
 ## 12. Map Other Files (State Mapping):
 Click Unclean DS Jobs and right-click anywhere in the Queries pane.
@@ -139,3 +144,8 @@ Select State Full Name and click Group By to calculate the Min Sal and Max Sal a
 ## 20. Check Dependencies and References:
 Go to View -> Dependencies to see how queries are linked.
 Duplicates are independent, while references depend on the original data.
+
+***Sample data ()
+***Sample data ()
+***Sample data ()
+***Sample data ()
