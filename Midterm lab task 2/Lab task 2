@@ -11,6 +11,8 @@ The dataset consists of multiple related tables, where cleaning techniques are a
 3. Go to Data → New Query → Open File → Text/CSV  
 4. Click Load and then Edit using Power Query Editor  
 
+Sample raw data: https://github.com/chan-edm/README/blob/main/Images/1.png
+
 ### Step 2: Duplicate Raw Data  
 1. Right-click the dataset in the Queries pane  
 2. Select Duplicate  
@@ -65,7 +67,7 @@ The dataset consists of multiple related tables, where cleaning techniques are a
 1. Go to Home Menu → Click Advanced Editor  
 2. Copy and save the code in your portfolio  
 
-
+Sample of clean data:https://github.com/chan-edm/README/blob/main/Images/2.png
 
 ### Step 10: Reshape and Group Data  
 #### Group by Role Type  
@@ -75,6 +77,8 @@ The dataset consists of multiple related tables, where cleaning techniques are a
 4. Multiply values by 1000 (Numbers Column → Standard → Multiply → Type 1000)  
 5. Group rows by Role Type and get the average for Min and Max Salary  
 
+Sample of Sal By Role Type dup: https://github.com/chan-edm/README/blob/main/Images/3.png
+
 #### Group by Company Size  
 1. Create a reference of raw data → Rename it as "Sal By Role Size ref"  
 2. Select only Size, Min Salary, and Max Salary columns  
@@ -82,6 +86,7 @@ The dataset consists of multiple related tables, where cleaning techniques are a
 4. Multiply values by 1000  
 5. Group rows by Size and get the average for Min and Max Salary  
 
+Sample of Sal By Role Size ref:https://github.com/chan-edm/README/blob/main/Images/4.png
 
 ### Step 11: Merge State Mapping  
 1. Click Unclean DS Jobs  
@@ -93,7 +98,7 @@ The dataset consists of multiple related tables, where cleaning techniques are a
 7. Rename the merged column as "State Full Name"  
 8. Remove nulls and blanks  
 
-
+Sample of states mapping: https://github.com/chan-edm/README/blob/main/Images/7.png
 
 ### Step 12: Group by State  
 1. Create a reference of raw data → Rename it as "Sal By State ref"  
@@ -102,8 +107,13 @@ The dataset consists of multiple related tables, where cleaning techniques are a
 4. Multiply values by 1000  
 5. Group rows by State Full Name and get the average for Min and Max Salary  
 
+Sample of Sal By State ref and sal by Size role dup: https://github.com/chan-edm/README/blob/main/Images/5.png
+:: https://github.com/chan-edm/README/blob/main/Images/6.png
 
 
 ### Step 13: View Query Dependencies  
 1. Go to View Menu → Click Dependencies  
 2. Check if all queries are correctly linked
+
+Sample of finish quires: https://github.com/chan-edm/README/blob/main/Images/8.png
+
