@@ -7,9 +7,11 @@
      - `id` (auto-increment and primary key)  
      - `product_name` (text up to 100 characters, cannot be empty)  
      - `price` (decimal number)
+# Screenshot and Structure sample:
 
 2. **Add a Rule**  
    - Add a `CHECK` constraint to make sure the `price` is more than 0.
+# Screenshot and Structure sample:
 
 3. **Insert Valid Products**  
    - Only add products with a positive price:
@@ -21,7 +23,12 @@
      - Desk Lamp – 24.99  
      - Speakers – 9.99  
    - Skip items with negative prices.
+# Screenshot and Structure sample:
 
 4. **Update the Table**  
    - Change the `product_name` field to allow up to 120 characters.
+# Screenshot and Structure sample:
+
+
+#Er Diagram Sample
 
