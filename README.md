@@ -1,7 +1,7 @@
 # README
 ![its me chan](https://github.com/user-attachments/assets/971a4a82-8df7-461f-86d1-27c98024be5d)
 
-This portfolio contains an imformation due to use power query 
+This portfolio contains an imformation due to use power queryL: 
 ## About me
 Im Christian S. Boiles 21yrs old, I am a student of CCA as 1st year student yr 2024-2025.
 ##Education
