@@ -1,5 +1,5 @@
 # README
-![its me chan].(https://github.com/user-attachments/assets/971a4a82-8df7-461f-86d1-27c98024be5d)
+![its me chan](https://github.com/user-attachments/assets/971a4a82-8df7-461f-86d1-27c98024be5d)
 
 This portfolio contains an imformation due to use power query: 
 - In today’s fast-paced world finding moments of focus and calm can often seem like a challenge. However two activities—reading and coding—offer more than just a way to pass the time. They have the power to enrich our lives in unique ways blending creativity problem solving and personal growth. Whether diving into an engaging book or tackling a coding problem both experiences allow us to expand our minds and skills.
