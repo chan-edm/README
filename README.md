@@ -16,11 +16,12 @@ Im Christian S. Boiles 21yrs old, I am a student of CCA as 1st year student yr 2
 - College: City College of Angeles.
 
 ## My project:
-- [Midterm lab task 1:][Data Cleaning and Preparation using Excel](https://github.com/chan-edm/README/tree/9259890d1c59cea198337ddc073058b993cad367/Midterm%20Lab%20task%201)
-- [Mid term lab task 2:][Data Cleaning and Preparation using POWER QUERY](https://github.com/chan-edm/README/tree/main/Midterm%20lab%20task%202)
-- [Midterm Lab Task 3:][ Creating PIVOT TABLE and DASHBOARD](https://github.com/chan-edm/README/tree/main/Midterm%20Lab%20Task%203)
+- [Midterm lab task 1:][Data Cleaning and Preparation using Excel](https://chan-edm.github.io/Midterm-Lab-task-1/)
+- [Mid term lab task 2:][Data Cleaning and Preparation using POWER QUERY](https://chan-edm.github.io/Midterm-lab-task-2/)
+- [Midterm Lab Task 3:][ Creating PIVOT TABLE and DASHBOARD](https://chan-edm.github.io/Midterm-lab-task-3/)
 ## My Final Projects:
-- [Finals Lab Task 1:] [Using MySQL Workbench to Create a Database](https://github.com/chan-edm/README/tree/main/Finals%20Lab%20Task%201%3A)
-- [Finals Lab Task 2:] [MySQL Database Creation](https://github.com/chan-edm/README/tree/main/Finals%20Lab%20Task%202%3A%20)
-- [Finals Lab Task 3:] [Table Manipulation Using MySQL](https://github.com/chan-edm/README/tree/main/Finals%20Lab%20Task%203%3A)
+- [Finals Lab Task 1:] [Using MySQL Workbench to Create a Database](https://chan-edm.github.io/Finals-Lab-Task-1/)
+- [Finals Lab Task 2:] [MySQL Database Creation](https://chan-edm.github.io/Finals-Lab-Task-2/)
+- [Finals Lab Task 3:] [Table Manipulation Using MySQL](https://chan-edm.github.io/Finals-Lab-Task-3/)
+- [Finals-Lab-Task-3.1] [Using MYSQL CLAUSEREADME](https://chan-edm.github.io/Finals-Lab-Task-3.1/)
 
