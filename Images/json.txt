@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6825d5e2010feadf3d3e145a"
+  },
+  "title": "Fight Club",
+  "writer": "Chuck Palahniuk",
+  "year": "1999",
+  "actors": [
+    "Brad Pitt",
+    "Edward Norton"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6825d666010feadf3d3e145b"
+  },
+  "title": "Pulp Fiction",
+  "writer": "Quentin Tarantino",
+  "year": "2009",
+  "actors": [
+    "John Travolta",
+    "Uma Thurman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6825d693010feadf3d3e145c"
+  },
+  "title": "Inglorious Basterds",
+  "writer": "Quentin Tarantino",
+  "year": "2009",
+  "actors": [
+    "Brad Pitt",
+    "Diane Kruger",
+    "Eli Roth"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6825d69d010feadf3d3e145d"
+  },
+  "title": "The Hobbit: An unexpected Journey",
+  "writer": "J.R.R. Tolkein",
+  "year": "2012",
+  "franchise": "The Hobbit"
+},
+{
+  "_id": {
+    "$oid": "6825d6a6010feadf3d3e145e"
+  },
+  "title": "The Hobbit: The Desolation of Smaug",
+  "writer": "J.R.R Tolkien",
+  "year": "2013",
+  "franchise": "The Hobbit"
+},
+{
+  "_id": {
+    "$oid": "6825d6b4010feadf3d3e145f"
+  },
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "writer": "J.R.R Tolkien",
+  "year": "2002",
+  "franchise": "The Hobbit",
+  "synopsis": "Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness."
+},
+{
+  "_id": {
+    "$oid": "6825d712010feadf3d3e1460"
+  },
+  "title": "Pee Wee Herman's Big Adventures"
+},
+{
+  "_id": {
+    "$oid": "6825d724010feadf3d3e1461"
+  },
+  "title": "Avatar"
+}]
