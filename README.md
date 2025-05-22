@@ -1,5 +1,5 @@
 # README
-![its me chan](https://github.com/user-attachments/assets/971a4a82-8df7-461f-86d1-27c98024be5d)
+![Image](https://github.com/user-attachments/assets/b6f1e365-a53c-4c9c-a140-bfe5193757c5)
 
 This portfolio contains an imformation due to use power query: 
 - In today’s fast-paced world finding moments of focus and calm can often seem like a challenge. However two activities—reading and coding—offer more than just a way to pass the time. They have the power to enrich our lives in unique ways blending creativity problem solving and personal growth. Whether diving into an engaging book or tackling a coding problem both experiences allow us to expand our minds and skills.
@@ -24,4 +24,6 @@ Im Christian S. Boiles 21yrs old, I am a student of CCA as 1st year student yr 2
 - [Finals Lab Task 2:] [MySQL Database Creation](https://chan-edm.github.io/Finals-Lab-Task-2/)
 - [Finals Lab Task 3:] [Table Manipulation Using MySQL](https://chan-edm.github.io/Finals-Lab-Task-3/)
 - [Finals-Lab-Task-3.1] [Using MYSQL CLAUSEREADME](https://chan-edm.github.io/Finals-Lab-Task-3.1/)
+- [Finals Lab Task 5:] [Views, Stored Procedures and Functions](https://chan-edm.github.io/Finals-Lab-Task-5/)
+- [Final Lab Task 6:] [MongoDB_Practice_Task](https://chan-edm.github.io/Final-Lab-Task-6/)
 
